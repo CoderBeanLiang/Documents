@@ -14,8 +14,8 @@ Please click the links below to learn more about the privacy policy of our third
 </br>
 ## Analytics
 Our apps may use Unity Analytics to improve the services we deliver to our customers.We only use these analytics to collect anonymous information.
-Please click the links below to learn more about the privacy policy of unity analytics service.
-- Unity Analytics: [<u>Privacy Policy</u>](https://unity3d.com/legal/privacy-policy "Unity Privacy Policy")
+Please click the links below to learn more about the privacy policy of unity analytics service. 
+- Unity Analytics: [<u>Privacy Policy</u>](https://unity3d.com/legal/privacy-policy "Unity Privacy Policy") 
 
 <br/>
 We might update this policy from time to time.
