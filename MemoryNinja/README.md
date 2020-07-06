@@ -2,6 +2,7 @@
 
 **Update : 2020-07-06**
 </br>
+
 We do not collecting personally identifiable or sensitive information about you. We do not ask for your full name, email address, phone number or other personally identifiable as part of gameplay. Your game progress is stored locally, in your device. We don't have access to this information. The application does collect some non-sensitive, anonymous data as outlined below:
 
 
